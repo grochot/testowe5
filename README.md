@@ -4,3 +4,5 @@ pierwsza linijka
 xzcxczx
 
 dsadsadsadcz
+
+las bliżej nas
