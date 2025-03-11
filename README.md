@@ -1,6 +1,6 @@
 # test
 
 pierwsza linijka
-xzcxczx
 
+test
 dsadsadsadcz
