@@ -1,6 +1,3 @@
 # test
 
-pierwsza linijka
-xzcxczx
-
-dsadsadsadcz
+rm -R *
