@@ -1,1 +1,1 @@
-to jest pierwszy tekst  
+dfsdfsdfto jest pierwszy tekst  
